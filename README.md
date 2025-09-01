@@ -1,5 +1,5 @@
 # PrometheusAlert全家桶
-
+# ubuntu使用kubeadm安装kubenertes
 ![author](https://img.shields.io/badge/author-jikun.zhang-blueviolet.svg)
 ![license](https://img.shields.io/github/license/feiyu563/PrometheusAlert.svg)
 ![last commit](https://img.shields.io/github/last-commit/feiyu563/PrometheusAlert.svg)
