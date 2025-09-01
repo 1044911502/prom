@@ -1,9 +1,9 @@
 # ubuntu使用kubeadm安装kubenertes
 <br/>
 ## 1.集群规划
-- 192.168.40.180 kubeadm_master 
-- 192.168.40.181 kubeadm_node1
-- 192.168.40.182 kubeadm_mode2
+192.168.40.180 kubeadm_master 
+192.168.40.181 kubeadm_node1
+192.168.40.182 kubeadm_mode2
 --------------------------------------
 
 * 如果这个项目能为您带来帮助，我将感到非常荣幸！同时非常欢迎您加入PrometheusAlert全家桶的微信群一起探讨关于PrometheusAlert新一期的开发计划。
