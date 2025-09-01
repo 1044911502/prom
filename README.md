@@ -1,27 +1,9 @@
-# PrometheusAlert全家桶
 # ubuntu使用kubeadm安装kubenertes
-![author](https://img.shields.io/badge/author-jikun.zhang-blueviolet.svg)
-![license](https://img.shields.io/github/license/feiyu563/PrometheusAlert.svg)
-![last commit](https://img.shields.io/github/last-commit/feiyu563/PrometheusAlert.svg)
-![issues](https://img.shields.io/github/issues/feiyu563/PrometheusAlert.svg)
-![stars](https://img.shields.io/github/stars/feiyu563/PrometheusAlert.svg)
-![forks](https://img.shields.io/github/forks/feiyu563/PrometheusAlert.svg)
-[![docker](https://img.shields.io/docker/pulls/feiyu563/prometheus-alert.svg)](https://hub.docker.com/r/feiyu563/prometheus-alert)
-
-[![GitHub Release](https://img.shields.io/github/release/feiyu563/PrometheusAlert.svg)](https://github.com/feiyu563/PrometheusAlert/releases)
-
-[![Travis](https://img.shields.io/badge/language-Go-green.svg)]()
-[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
-[![Travis](https://img.shields.io/badge/language-Shell-blue.svg)]()
-
 <br/>
-
-## 项目介绍
-
-PrometheusAlert是开源的运维告警中心消息转发系统，支持主流的监控系统Prometheus、Zabbix，日志系统Graylog2，Graylog3、数据可视化系统Grafana、SonarQube。阿里云-云监控，以及所有支持WebHook接口的系统发出的预警消息，支持将收到的这些消息发送到钉钉，微信，email，飞书，腾讯短信，腾讯电话，阿里云短信，阿里云电话，华为短信，百度云短信，容联云电话，七陌短信，七陌语音，TeleGram，百度Hi(如流)，Kafka等。
-
-![it](doc/images/it.png)
-
+## 1.集群规划
+- 192.168.40.180 kubeadm_master 
+- 192.168.40.181 kubeadm_node1
+- 192.168.40.182 kubeadm_mode2
 --------------------------------------
 
 * 如果这个项目能为您带来帮助，我将感到非常荣幸！同时非常欢迎您加入PrometheusAlert全家桶的微信群一起探讨关于PrometheusAlert新一期的开发计划。
